@@ -6,6 +6,8 @@ Bitonic sort is implemented using ComputeShader.
 - BitonicSortRT<br/>
 Bitonic sort is implemented using RenderTexture.
 
+![image](https://github.com/hiroakioishi/UnityGPUBitonicSort/blob/master/bitonicsort_image.jpg)
+
 https://youtu.be/tGslc0d2EiA
 
 ### References
