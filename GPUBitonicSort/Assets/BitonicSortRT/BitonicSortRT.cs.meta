@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 96a5a918a57ad5141ad4090bb2734d51
+timeCreated: 1474535587
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BitonicSortShader: {fileID: 4800000, guid: cf738e3163b80d14d9e4521f002927a9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
